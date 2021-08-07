@@ -1,0 +1,7 @@
+ei duita  counter er main .ei duita lagbe 
+youtube link:
+https://youtu.be/u66FfDDTabI
+
+
+jquery.countup.min.js
+jquery.waypoints.min.js

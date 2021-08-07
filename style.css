@@ -1,0 +1,37 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: tahoma;
+}
+ul, ol {
+	list-style: none;
+}
+a {
+	text-decoration: none !important;
+}
+
+/*counter*/
+#content .col-md-3{
+	padding: 0px;
+}
+#content .counter-box{
+	padding: 100px 0px;
+	margin-right: 1px solid #dcdcdc;
+	background: black;
+}
+#content .counter-box h1{
+	font-size: 3em;
+	color: #ff0066;
+	font-weight: bold;
+}
+#content .counter-box span{
+font-size: 2.5em;
+color: #ff0066;
+}
+
+/**/
+.mm{
+	margin: auto;
+	background: blue;
+	margin-bottom:  500px;
+}
